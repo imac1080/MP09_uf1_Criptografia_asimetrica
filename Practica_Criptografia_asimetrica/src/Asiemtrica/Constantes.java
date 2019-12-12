@@ -1,3 +1,4 @@
+package Asiemtrica;
 public interface Constantes 
 { 
  public static final int ITERACIONES_PBE = 1000; 
